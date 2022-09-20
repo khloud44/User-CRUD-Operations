@@ -4,7 +4,7 @@ const axioxInstance = axios.create({
     baseURL:"https://gorest.co.in/public/v2/users",
     headers:{
         'Content-Type' : "application/json",
-        "Authorization": "Bearer c4b8242eb24c239fcf23f11eb5e8c33fa27aacb2fc6bfa9e470a044cf9646fb0"
+        "Authorization": "Bearer 0a69d71fedff1f975923ab52dcd196a0594c656aa8df7818d0024da74b95e674"
     },
 })
 
